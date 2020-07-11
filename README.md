@@ -12,6 +12,9 @@
 #### make sure ROS path is included to the current working sandbox
 > echo $ROS_PACKAGE_PATH
 #### Visualise Node and topics
->rqt_graph
+   > rqt_graph
 
 ----
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MzU0NDM3MDJdfQ==
+-->
