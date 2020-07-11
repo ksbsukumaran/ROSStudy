@@ -7,11 +7,8 @@
 -----
 
 ## Before running catkin_make of new source file
-----
-
 #### make sure you run below command once in every new session inside Catkin_ws
 > sukumaran@sukumaran-Lenovo-ideapad-330-17ICH:~/catkin_ws$ source devel/setup.bash
-
 #### make sure ROS path is included to the current working sandbox
 > echo $ROS_PACKAGE_PATH
-
+----
