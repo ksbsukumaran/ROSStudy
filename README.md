@@ -13,10 +13,10 @@
 ## Visualise Node and topics
    > rqt_graph
 ## Create package
->catkin_create_pkg Package_name std_msgs rospy roscpp
+>catkin_create_pkg <Package_name> std_msgs rospy roscpp
 
 ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzcyMDcwMTcsLTUwOTkxMTc5OSwtMT
+eyJoaXN0b3J5IjpbLTEyNTE4NTE2MTksLTUwOTkxMTc5OSwtMT
 c5ODM0NTU3N119
 -->
