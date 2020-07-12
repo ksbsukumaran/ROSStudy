@@ -11,7 +11,7 @@
 > sukumaran@sukumaran-Lenovo-ideapad-330-17ICH:~/catkin_ws$ source devel/setup.bash
 #### make sure ROS path is included to the current working sandbox
 > echo $ROS_PACKAGE_PATH
-#### Visualise Node and topics
+## Visualise Node and topics
    > rqt_graph
 
 ----
