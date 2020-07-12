@@ -12,11 +12,11 @@
 > echo $ROS_PACKAGE_PATH
 ## Visualise Node and topics
    > rqt_graph
-## Create
-
+## Create package
+>catkin_create_pkg Package std_msgs rospy roscpp
 
 ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDcyMzU5MSwtNTA5OTExNzk5LC0xNz
-k4MzQ1NTc3XX0=
+eyJoaXN0b3J5IjpbLTE2OTc0ODExNzMsLTUwOTkxMTc5OSwtMT
+c5ODM0NTU3N119
 -->
