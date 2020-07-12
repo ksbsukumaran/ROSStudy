@@ -5,7 +5,6 @@
 #### A good way to check is to ensure that environment variables like ROS_ROOT and ROS_PACKAGE_PATH are set: 
 > printenv | grep ROS
 
-
 ## Before running catkin_make of new source file
 #### make sure you run below command once in every new session inside Catkin_ws
 > sukumaran@sukumaran-Lenovo-ideapad-330-17ICH:~/catkin_ws$ source devel/setup.bash
@@ -16,5 +15,5 @@
 
 ----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTgzNDU1NzddfQ==
+eyJoaXN0b3J5IjpbLTUwOTkxMTc5OSwtMTc5ODM0NTU3N119
 -->
